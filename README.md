@@ -30,7 +30,7 @@ To enable automatic coverage collection, a C++ wrapper embeds the PyTorch/BoTorc
 6. **Termination:** Repeat steps 3–5 until 100% functional coverage is achieved or the maximum number of requests (`M`) is reached.
 
 ## Sample Results
-![Coverage Results Graph]("C:\Users\amelia\Downloads\BO_Results.png")
+![Coverage Results Graph](./images/BO_Results.png)
 
 Testing was conducted across three different configurations, capping each at a maximum of 100 tests (`M/N = 100`). 
 
